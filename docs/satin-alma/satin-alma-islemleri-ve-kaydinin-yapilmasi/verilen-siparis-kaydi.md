@@ -1,0 +1,6 @@
+#VERİLEN SİPARİŞ KAYDI
+
+
+Talepte bulunulan malzeme onaylandıktan sonra aşağıdaki yol izlenir;
+
+**STOK > SİPARİŞLER/TEKLİFLER > VERİLEN SİPARİŞLER > EKLE > CARİ UNVAN SEÇ > GELEN GİDEN EVRAKTAN NUMARA AL > STOK ADINA ÇİFT TIKLA ve MALZEMEYİ SEÇ > MALZEME VERİLERİNİ GİR > YAZDIR > FORM SEÇEREK YAZDIR > SİPARİŞ FORMU > FORMU KAYDET VE YAZDIR.**

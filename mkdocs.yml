@@ -1,0 +1,9 @@
+site_name: Siryon Dökümanı
+
+theme:
+  name: material
+  language: tr
+
+plugins:
+    - search:
+        separator: '[\s\-\.]+'
